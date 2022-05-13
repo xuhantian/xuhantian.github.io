@@ -4,7 +4,7 @@ title: "Miscellaneous"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  #- /markdown.html
 ---
 
 ## Honors and Awards 
