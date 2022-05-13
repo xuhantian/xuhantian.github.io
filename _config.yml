@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xuhan Tian"
   avatar           : "profile.png"
-  bio              : "Post-doctoral fellow in Industrial Engineering and Decision Analytics, The Hong Kong University of Science and Techonology"
+  bio              : "Post-doctoral fellow\Industrial Engineering and Decision Analytics\The Hong Kong University of Science and Techonology"
   location         : "Hong Kong"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+ # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
