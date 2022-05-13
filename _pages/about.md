@@ -13,6 +13,8 @@ I received my doctoral degree from the same department in 2020, under the superv
 
 My research interests fall in the areas of pricing and revenue management, supply chain management, and OM-marketing interface. I conduct theoretical analysis with basic OR/OM techniques and methodology, particularly dynamic programming, stochastic modeling and optimization, and game theory. 
 
+I am about to join the School of Entrepreneurship and Management, ShanghaiTech University as an Assistant Professor in Fall 2022. 
+
 ### Contact 
 
 Department of Industrial Engineering and Decision Analytics, 
