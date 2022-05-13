@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Xuhan (Beth) Tian"
   avatar           : "bio-photo0.jpg"
-  bio              : "Post-doctoral fellow\n\
-                      Industrial Engineering and Decision Analytics\n\                   
-                      The Hong Kong University of Science and Techonology"
+  bio              : "Post-doctoral Fellow 
+                     Department of Industrial Engineering an Decision Analytics 
+                     
+                     The Hong Hong University of Science and Technology"
   location         : "Hong Kong"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -166,7 +167,7 @@ incremental: false
 # Markdown Processing
 kramdown:
   input: GFM
-  hard_wrap: false
+  hard_wrap: true 
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
