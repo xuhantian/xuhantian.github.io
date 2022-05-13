@@ -1,4 +1,13 @@
 
+---
+layout: archive
+title: "Research"
+permalink: /myresearch/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 ## Research Interests 
 
 #### Methodologies
