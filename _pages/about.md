@@ -13,3 +13,8 @@ I received my doctoral degree from the same department in 2020, under the superv
 
 My research interests fall in the areas of pricing and revenue management, supply chain management, and OM-marketing interface. I conduct theoretical analysis with basic OR/OM techniques and methodology, particularly dynamic programming, stochastic modeling and optimization, and game theory. 
 
+### Contact 
+
+Department of Industrial Engineering and Decision Analytics, 
+The Hong Kong University of Science and Techonology,
+Clear Water Bay, Hong Kong SAR
