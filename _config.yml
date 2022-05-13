@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Xuhan (Beth) Tian"
   avatar           : "bio-photo0.jpg"
-  bio              : "Post-doctoral fellow \ Industrial Engineering and Decision Analytics \ The Hong Kong University of Science and Techonology"
+  bio              : "Post-doctoral fellow\ 
+                      Industrial Engineering and Decision Analytics\ 
+                      The Hong Kong University of Science and Techonology"
   location         : "Hong Kong"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
