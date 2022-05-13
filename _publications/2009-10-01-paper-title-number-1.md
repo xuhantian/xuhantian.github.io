@@ -32,6 +32,12 @@ Xuhan Tian, Xiangtong Qi, Yusen Xia. Presale Competition in Online Shopping Carn
 
 Incentivizing Behaviorally Stable Vehicle Platooning, with Zhou Xu, Xiangtong Qi, and Lindong Liu. Working paper.
 
+## Talks 
+
+''Pre-order Competition under Asymmetric Consumers Preference'',  2019 INFORMS Annual Meeting, Seattle, Washington, U.S.A.
+
+''Talent Crowdsourcing via Stochastic Sequential Assignments''. 2019 POMS-HK International Conference, CUHK, Hong Kong S.A.R.
+
 <!--
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 -->
