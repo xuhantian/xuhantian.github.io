@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-## Research Interests 
+## Research Interests  
 -----
 
 **Methodologies:**  Dynamic programming, Stochastic modeling and optimization, Game theory
@@ -19,7 +19,7 @@ redirect_from:
 **Applications:**  Pricing and revenue management, Supply chain management, OM-marketing interface
 
 
-## Selected Publications
+## Selected Publications 
 -----
 
 Xuhan Tian, Junmin Shi, Xiangtong Qi. (2022). Stochastic Sequential Allocations for Creative Crowdsourcing. Production and Operations Management 31(2): 697-714. (UTD24, FT50) [DOI: https://doi.org/10.1111/poms.13573](https://doi.org/10.1111/poms.13573)
@@ -31,7 +31,7 @@ Xuhan Tian, Xiangtong Qi, Yusen Xia. Presale Competition in Online Shopping Carn
 
 Incentivizing Behaviorally Stable Vehicle Platooning, with Zhou Xu, Xiangtong Qi, and Lindong Liu. Working paper.
 
-## Talks 
+## Talks  
 -----
 
 ''Pre-order Competition under Asymmetric Consumers Preference'',  2019 INFORMS Annual Meeting, Seattle, Washington, U.S.A.
