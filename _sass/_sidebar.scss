@@ -99,6 +99,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  text-align:justify;
 
   @include breakpoint($large) {
     display: block;
@@ -123,6 +124,7 @@
 
 .author__bio {
   margin: 0;
+  text-align:justify;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -217,7 +219,8 @@
   }
 
   li {
-    white-space: nowrap;
+  /* <!-- white-space: nowrap;--> */
+    text-align:justify;
   }
 
   a {
