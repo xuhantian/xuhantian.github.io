@@ -16,6 +16,13 @@ My research interests fall in the areas of pricing and revenue management, suppl
 
 I am about to join the School of Entrepreneurship and Management, ShanghaiTech University as an Assistant Professor in Fall 2022. 
 
+## Education & Experience 
+
+**2020-present:** Post-doctoral fellow, Department of Industrial Engineering and Decision Analytics, The Hong Kong University of Science and Technology 
+
+**2016-2020:**   PhD in Indstrial Engineering and Logistics Management, The Hong Kong University of Science and Technology           
+
+**2012-2016:**  Bng in Industrial Engineering, Shanghai Jiao Tong University
 ### Contact 
 
 xtianab@connect.ust.hk
