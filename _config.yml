@@ -8,7 +8,7 @@
 # Site Settings
 hyphenate_filter:
   language: en_uk
-  left: 4
+  left: 2
   right: 3
   hyphen: "&shy;"
 locale                   : "en-US"
