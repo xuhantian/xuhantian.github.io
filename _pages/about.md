@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, welcome to my personal website. 
 
-I am a post-doctoral fellow in the Department of Industrial Engineering and Decision Analytics, the Hong Kong University of Science and Technology. I received my doctoral degree from the same department in 2020, under the supervision of Prof. Xiangtong Qi, and my bachelor's degree in Industrial Engineering from Shanghai Jiao Tong University in 2016. 
+<p style="text-align:justify" I am a post-doctoral fellow in the Department of Industrial Engineering and Decision Analytics, the Hong Kong University of Science and Technology. I received my doctoral degree from the same department in 2020, under the supervision of Prof. Xiangtong Qi, and my bachelor's degree in Industrial Engineering from Shanghai Jiao Tong University in 2016. />
 
 My research interests fall in the areas of pricing and revenue management, supply chain management, and OM-marketing interface. I conduct theoretical analysis with basic OR/OM techniques and methodology, particularly dynamic programming, stochastic modeling and optimization, and game theory. 
 
