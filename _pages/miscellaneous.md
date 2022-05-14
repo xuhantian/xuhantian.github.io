@@ -14,8 +14,20 @@ I enjoy shooting photos during my spare time.
 
 
 
- <img src="/images/未标题_全景图1-2.jpg" width = "800" >
+ <img src="/images/未标题_全景图1-2.jpg" width = "100%"  />
+ 
+ <img src="/images/wechat-image-20191102163936_orig.jpg " width = "49.5%" > <img src="/images/WeChat Image_20191102163950.jpg" width = "49.5%" >
+ 
+ 
+ <img src="/images/org-dsc06704_orig.jpg" width =  "49.5%" >  <img src="/images/wechat-image-20190723154649_orig.jpg " width =  "49.5%" > 
 
- <img src="/images/wechat-image-20191102163936_orig.jpg " width = "400" > <img src="/images/wechat-image-20190723154649_orig.jpg " width = "400" >
+<img src="/images/dsc01352_orig.jpg" width = "78.5%" > <img src="/images/wechat-image-20210729193634_orig.jpg" width = "21%" > 
+
+ <img src="/images/dsc00691_orig.jpg " width =  "49.5%" >  <img src="/images/dsc01668_orig.jpg" width =  "49.5%" > 
 
 
+
+ 
+
+
+ 
