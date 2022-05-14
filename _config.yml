@@ -6,6 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+hyphenate_filter:
+  language: en_uk
+  left: 4
+  right: 3
+  hyphen: "&shy;"
 locale                   : "en-US"
 title                    : "Xuhan Tian, PhD"
 title_separator          : "-"
