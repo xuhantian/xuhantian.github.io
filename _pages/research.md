@@ -21,6 +21,7 @@ Dynamic programming, Stochastic modeling and optimization, Game theory
 
 Pricing and revenue management, Supply chain management, OM-marketing interface
 
+-----
 
 ## Selected Publications
 
