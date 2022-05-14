@@ -17,6 +17,8 @@ I am about to join the School of Entrepreneurship and Management, ShanghaiTech U
 
 ### Contact 
 
-xtianab@connect.ust.hk | Department of Industrial Engineering and Decision Analytics, 
+xtianab@connect.ust.hk
+
+Department of Industrial Engineering and Decision Analytics, 
 The Hong Kong University of Science and Techonology,
 Clear Water Bay, Hong Kong SAR
