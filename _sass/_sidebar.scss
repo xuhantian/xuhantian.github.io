@@ -99,7 +99,6 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
-  text-align:justify;
 
   @include breakpoint($large) {
     display: block;
@@ -219,8 +218,7 @@
   }
 
   li {
-  /* <!-- white-space: nowrap;--> */
-    text-align:justify;
+     white-space: nowrap;
   }
 
   a {
