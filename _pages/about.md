@@ -19,7 +19,7 @@ Hello, welcome to my personal website.
 ## Education & Experience 
 
 <p>
-  <b> Post-Doctoral Fellow  <span style="float:right;"> 2020-2022 <br></span></b>
+  <b> Post-Doctoral Fellow  <span style="float:right;"> 2020-2022 </span></b><br>
    Department of Industrial Engineering and Decision Analytics <br>
    The Hong Kong University of Science and Technology 
 </p>
