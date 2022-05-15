@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <br>
+
 > ``This above all: to thine self be true. '' - William Shakespeare. Hamlet: Act I, scene 2.
 
 
