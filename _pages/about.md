@@ -19,18 +19,18 @@ Hello, welcome to my personal website.
 ## Education & Experience 
 
 <p>
-  <b> Post-Doctoral Fellow  <span style="float:right;"> 2020-2022 </span></b>
+  <b> Post-Doctoral Fellow  <span style="float:right;"> 2020-2022 <br></span></b>
    Department of Industrial Engineering and Decision Analytics <br>
    The Hong Kong University of Science and Technology 
 </p>
 
 <p>
-  <b> Ph.D. in Indstrial Engineering and Logistics Management  <span style="float:right;"> 2016-2020 </span></b>
+  <b> Ph.D. in Indstrial Engineering and Logistics Management  <span style="float:right;"> 2016-2020 </span></b><br>
   The Hong Kong University of Science and Technology   
 </p>
 
 <p>
-  <b>  B.Eng. in Industrial Engineering <span style="float:right;"> 2012-2016 </span></b>
+  <b>  B.Eng. in Industrial Engineering <span style="float:right;"> 2012-2016 </span></b> <br>
   School of Mechanical Engineering <br>
   Shanghai Jiao Tong University
 </p>
