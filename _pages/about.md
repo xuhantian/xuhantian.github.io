@@ -18,13 +18,24 @@ Hello, welcome to my personal website.
 
 ## Education & Experience 
 
-<p><b> Post-Doctoral Fellow  <span style="float:right;"> 2020-present </span></b></p>
+<p>
+  <b> Post-Doctoral Fellow  <span style="float:right;"> 2020-2022 </span></b>
+   Department of Industrial Engineering and Decision Analytics <br>
+   The Hong Kong University of Science and Technology 
+</p>
 
-Department of Industrial Engineering and Decision Analytics, The Hong Kong University of Science and Technology 
+<p>
+  <b> Ph.D. in Indstrial Engineering and Logistics Management  <span style="float:right;"> 2016-2020 </span></b>
+  The Hong Kong University of Science and Technology   
+</p>
 
-**2016-2020:**   Ph.D. in Indstrial Engineering and Logistics Management, The Hong Kong University of Science and Technology           
+<p>
+  <b>  B.Eng. in Industrial Engineering <span style="float:right;"> 2012-2016 </span></b>
+  School of Mechanical Engineering <br>
+  Shanghai Jiao Tong University
+</p>
 
-**2012-2016:**  B.Eng. in Industrial Engineering, Shanghai Jiao Tong University
+
 ### Contact 
 
 xtianab@connect.ust.hk
