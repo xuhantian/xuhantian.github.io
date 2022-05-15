@@ -7,9 +7,18 @@ redirect_from:
   #- /markdown.html
 ---
 
+<br>
+<br>
+<p> <i> ``This above all: to thine self be true. '' - William Shakespeare. Hamlet: Act I, scene 2. </i></p>
+<br>
+
+## More About Me  
+
+
+
 ## Photography 
 
-I enjoy shooting photos during my spare time. See my pictures on [flikcr](https://flic.kr/s/aHBqjzPPvr). 
+I enjoy traveling and shooting photos during my spare time. See my pictures on [flikcr](https://flic.kr/s/aHBqjzPPvr). 
 
 
 
