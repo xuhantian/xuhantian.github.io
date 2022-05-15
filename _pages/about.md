@@ -18,9 +18,9 @@ Hello, welcome to my personal website.
 
 ## Education & Experience 
 
-<p> Post-Doctoral Fellow  <span style="float:right;"> 2020-present </span></p>
+<p><b> Post-Doctoral Fellow  <span style="float:right;"> 2020-present </span></b></p>
 
-**2020-present:**  Post-Doctoral Fellow, Department of Industrial Engineering and Decision Analytics, The Hong Kong University of Science and Technology 
+Department of Industrial Engineering and Decision Analytics, The Hong Kong University of Science and Technology 
 
 **2016-2020:**   Ph.D. in Indstrial Engineering and Logistics Management, The Hong Kong University of Science and Technology           
 
