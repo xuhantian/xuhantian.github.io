@@ -19,7 +19,7 @@ redirect_from:
 
 ## Selected Publications 
 
-Xuhan Tian, Junmin Shi, Xiangtong Qi. (2022). Stochastic Sequential Allocations for Creative Crowdsourcing. Production and Operations Management 31(2): 697-714. (UTD24, FT50)  [DOI: https://doi.org/10.1111/poms.13573](https://doi.org/10.1111/poms.13573)
+Xuhan Tian, Junmin Shi, Xiangtong Qi. (2022). Stochastic Sequential Allocations for Creative Crowdsourcing. Production and Operations Management 31(2): 697-714. [DOI: https://doi.org/10.1111/poms.13573.](https://doi.org/10.1111/poms.13573) (UTD24, FT50) 
 
 ## Working Papers 
 
