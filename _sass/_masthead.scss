@@ -50,10 +50,12 @@
     padding-right: 5em;
     font-weight: 700;
   }
-}
-
-.masthead__logo {
+   
+  &--logo {
    float:right;
    width:36px;
    height:36px;
+  }
+   
 }
+
