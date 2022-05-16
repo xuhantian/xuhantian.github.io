@@ -6,10 +6,10 @@ author_profile: true
 
 <br>
 <div class="row">
-  <div class="column" width="20%">
+  <div class="column" style="float:left;width:20%;">
     <img src="/images/Picture2.png" style="vertical-align:middle;width:20%;" >
   </div>
-  <div class="column" width="80%">
+  <div class="column" style="float:left;width:80%;">
     <p vertical-align="middle"> <b>Dr. Xuhan Tian</b> | 
     xtianab@connect.ust.hk <br>
     <i> Department of Industrial Engineering and Decision Analytics 
