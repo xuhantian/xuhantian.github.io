@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Xuhan (Beth) Tian, PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
