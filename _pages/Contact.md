@@ -4,16 +4,16 @@ title: "Contact"
 author_profile: true
 ---
 
-
+<br>
 <div class="row">
-  <div class="column" style="float:left; width:20%">
-    <img src="Picture2.png" width="20%" > 
+  <div class="column" width="20%">
+    <img src="/images/Picture2.png" style="vertical-align:middle;width:20%;" >
   </div>
-  <div class="column" style="float:left;width=80%">
-  <p> <b>Dr. Xuhan Tian</b> <br>
+  <div class="column" width="80%">
+    <p vertical-align="middle"> <b>Dr. Xuhan Tian</b> | 
     xtianab@connect.ust.hk <br>
-    <i> Department of Industrial Engineering and Decision Analytics <br>
-      The Hong Kong University of Science and Techonology  <br>
+    <i> Department of Industrial Engineering and Decision Analytics 
+      The Hong Kong University of Science and Techonology
       Clear Water Bay, Hong Kong SAR </i>
    </p>  
   </div>
