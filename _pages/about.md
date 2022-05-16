@@ -38,8 +38,8 @@ Hello, welcome to my personal website.
 
 ### Contact 
 
-xtianab@connect.ust.hk
-
-Department of Industrial Engineering and Decision Analytics, 
-The Hong Kong University of Science and Techonology,
-Clear Water Bay, Hong Kong SAR
+ <p> <b>Dr. Xuhan Tian</b> | xtianab@connect.ust.hk <br>
+    <i> Department of Industrial Engineering and Decision Analytics, 
+      The Hong Kong University of Science and Techonology, 
+      Clear Water Bay, Hong Kong SAR </i>
+   </p>  
