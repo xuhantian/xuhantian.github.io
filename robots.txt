@@ -3,5 +3,10 @@ Allow: /$
 Allow: /images/bio-photo0.jpg
 Disallow: /
 
+User-agent: Bingbot 
+Allow: /$
+Allow: /images/bio-photo0.jpg
+Disallow: /
+
 User-agent: *
 Disallow: /
