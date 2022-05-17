@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-<br>
 
 > ''This above all: to thine own self be true.'' - William Shakespeare. Hamlet: Act I, scene 2.
 
