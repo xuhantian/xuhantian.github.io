@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xuhan (Beth) Tian $|$ 田旭晗"
+title: "Xuhan (Beth) Tian &#124 田旭晗"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
