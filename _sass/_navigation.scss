@@ -211,14 +211,14 @@
       &:first-child {
         font-weight: bold;
          ul {
-             margin-left: 0;
+             margin-left: -1em;
          }
       }
        
       &:nth-child(2) {
          font-weight: bold;
          a {
-            margin-left: 10px;
+            margin-left: 0;
          }
        }
 
