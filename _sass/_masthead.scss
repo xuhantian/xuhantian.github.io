@@ -45,9 +45,13 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+   
+  &--logo {
+     padding-right: 0.5em 
+   }
 
   &--lg {
-    padding-right: 5em;
+    padding-right: 4.5em;
     font-weight: 700;
   }
    
