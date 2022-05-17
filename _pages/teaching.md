@@ -3,8 +3,11 @@ permalink: /teaching/
 title: "Teaching"
 excerpt: "teaching"
 author_profile: true
-
 ---
+
+{% include base_path %}
+
+
 ## Instructor 
 
 ### MGMT1301: Production and Operations Management (Undergraduate Course)
