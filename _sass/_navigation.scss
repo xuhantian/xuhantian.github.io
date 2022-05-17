@@ -213,9 +213,15 @@
 
         a {
           margin-left: 0;
-          margin-right: 0;
         }
       }
+       
+      &:nth-child(2) {
+         font-weight: bold;
+         a {
+            margin-left: 0;
+         }
+       }
 
       &:last-child {
         a {
