@@ -1,10 +1,8 @@
 ---
 permalink: /miscellaneous/
 title: "Miscellaneous"
-author_profile: true
-redirect_from: 
-  - /md/
-  #- /markdown.html
+author_profile: true 
+
 ---
 
 <br>
