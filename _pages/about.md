@@ -36,7 +36,7 @@ Hello, welcome to my personal website.
 </p>
 
 
-### Contact 
+## Contact 
 
  <p> <b>Dr. Xuhan Tian</b> | xtianab@connect.ust.hk <br>
     <i> Department of Industrial Engineering and Decision Analytics, 
