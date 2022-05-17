@@ -1,3 +1,9 @@
 ># allow google
-User-agent: *
+
+User-agent: Googlebot 
 Allow: /
+Allow: /images/bio-photo0.jpg
+Disallow: /images/
+
+User-agent: *
+Disallow: /
