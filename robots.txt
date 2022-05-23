@@ -1,6 +1,7 @@
 User-agent: Googlebot 
 Allow: /$
 Allow: /images/bio-photo0.jpg
+Allow: /sitemap.xml 
 Disallow: /
 
 User-agent: Bingbot 
