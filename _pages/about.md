@@ -14,6 +14,7 @@ Hello, welcome to my personal website.
 
 <p style="text-align:justify;"> My research interests fall in the areas of pricing and revenue management, supply chain management, and OM-marketing interface. I conduct theoretical analysis with basic OR/OM techniques and methodology, particularly dynamic programming, stochastic modeling and optimization, and game theory.  </p>
 
+<p style="color:#205375"> <b>What's new: </b></p>
 <p style="text-align:justify;"> I am about to join the School of Entrepreneurship and Management, ShanghaiTech University as an Assistant Professor in Fall 2022. </p>
 
 ## Education & Experience 
