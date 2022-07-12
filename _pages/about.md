@@ -20,6 +20,13 @@ Hello, welcome to my personal website.
 ## Education & Experience 
 
 <p>
+  <b> Assistant Professor <span style="float:right;"> 2022-now </span></b><br>
+   School of Entrepreneurship and Management <br>
+   ShanghaiTech University 
+</p>
+
+
+<p>
   <b> Post-Doctoral Fellow  <span style="float:right;"> 2020-2022 </span></b><br>
    Department of Industrial Engineering and Decision Analytics <br>
    The Hong Kong University of Science and Technology 
