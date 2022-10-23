@@ -15,12 +15,14 @@ author_profile: true
 ## More About Me  
 
 
-## My Pet 
+## My Furry Friend 
 
-This is my cat 来福。
+This is my cat, 来福 (pronounced as ``lie-foo''). Her name means ``fortune arrives''. 
 
 
-<img src="/images/cat1.jpg" width = "30%"  /> <img src="/images/cat2.jpg" width = "67%"  /> 
+<img src="/images/cat1.jpg" width = "20%"  /> <img src="/images/cat3.jpg" width = "20%"  /> 
+
+<img src="/images/cat2.jpg" width = "45%"  /> 
 
 
 ## Photography 
