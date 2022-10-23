@@ -20,7 +20,7 @@ author_profile: true
 This is my cat 来福。
 
 
-<img src="/images/cat1.jpg" width = "40%"  /> <img src="/images/cat2.jpg" width = "60%"  /> 
+<img src="/images/cat1.jpg" width = "30%"  /> <img src="/images/cat2.jpg" width = "60%"  /> 
 
 
 ## Photography 
