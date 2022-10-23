@@ -15,6 +15,13 @@ author_profile: true
 ## More About Me  
 
 
+## My Pet 
+
+This is my cat 来福。
+
+
+<img src="/images/cat1.jpg" width = "40%"  /> <img src="/images/cat2.jpg" width = "60%"  /> 
+
 
 ## Photography 
 
