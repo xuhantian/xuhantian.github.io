@@ -17,7 +17,7 @@ author_profile: true
 
 ## My Furry Friend 
 
-This is my cat, 来福 (pronounced as ``lie-foo''). Her name means ``fortune arrives''. 
+This is my cat, 来福 (pronounced as ''lie-foo''). Her name means ''fortune arrives''. 
 
 
 <img src="/images/cat1.jpg" width = "20%"  /> <img src="/images/cat3.jpg" width = "20%"  /> <img src="/images/cat2.jpg" width = "45%"  /> 
