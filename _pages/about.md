@@ -46,7 +46,7 @@ Hello, welcome to my personal website.
 
 ## Contact 
 
- <p> <b>Dr. Xuhan Tian</b> | tianxh1@shanghaitech.edu.cn <br>
+ <p> <b>Dr. Xuhan Tian</b> | xtianshtu@shanghaitech.edu.cn <br>
     <i> School of Entrepreneurship and Management, 
       ShanghaiTech University,
       393 Middle Huaxia Road, Pudong, Shanghai, China, 201210.
