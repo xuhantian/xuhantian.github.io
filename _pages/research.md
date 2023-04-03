@@ -22,7 +22,7 @@ Xuhan Tian, Junmin Shi, Xiangtong Qi. (2022). Stochastic Sequential Allocations 
 
 ## Working Papers 
 
-Xuhan Tian, Xiangtong Qi, Yusen Xia. Presale Competition in Online Shopping Carnivals. Reject and resubmit to Manufacturing & Service Operations Management. (UTD24, FT50) 
+Xuhan Tian, Xiangtong Qi, Yusen Xia. Presale Competition in Online Shopping Carnivals. Working paper.
 
 Incentivizing Behaviorally Stable Vehicle Platooning, with Zhou Xu, Xiangtong Qi, and Lindong Liu. Working paper.
 
